@@ -11,8 +11,8 @@
     
     <?php
     // Example of a PHP variable and conditional statement
-    $name = "John";
-    if ($name == "John") {
+    $name = "Upendra";
+    if ($name == "Upendra") {
         echo "<p>Welcome back, $name!</p>";
     } else {
         echo "<p>Hello, guest!</p>";
